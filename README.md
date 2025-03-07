@@ -1,5 +1,5 @@
 # **Project Hawkeye**  
-**AI-Powered Visual Verification Automation**  
+**AI-Powered Visual Verification QA Automation**  
 
 ---
 
